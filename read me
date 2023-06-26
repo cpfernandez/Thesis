@@ -1,0 +1,25 @@
+AN ANALYSIS OF THE EFFECT OF HIGH CONGESTION RATES IN 
+PHILIPPINE PRISONS IN THE PROPAGATION OF SARS-HCoV-2
+USING SEIR AGENT-BASED MODELLING
+
+Author: Chien Carisse P. Fernandez
+Date: June 2023
+
+Platform: GAMA
+
+How to run the code:
+
+- Preparing the code and program -
+1. Extract code.zip file found in this folder.
+2. Install and open GAMA v.1.9.1 application.
+3. In GAMA application, click:
+       File > Open File > 
+   then open Model.gaml file found in the extracted folder.
+4. In the same folder/location where Model.gaml was
+   opened, create a folder and name the folder 'includes'.
+5. Load all the shapefiles found in the 'includes' folder
+   found in this folder.
+
+- Running the code -
+6. Once all the files are loaded to the GRAMA Platform, click
+   on the green button saying 'map-only' to start the simulation.
